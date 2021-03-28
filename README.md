@@ -2,7 +2,7 @@
 - 👀 I’m interested in Exploring technologies
 - 🌱 I’m currently learning datascience
 - 
-- 📫 How to reach me sivagnanam.uncovertech@gmail.com
+- 📫 How to reach me msivagnanam.uncovertech@gmail.com
 
 <!---
 sivagnanamm/sivagnanamm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
